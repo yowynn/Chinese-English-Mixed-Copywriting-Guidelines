@@ -207,6 +207,21 @@
     >
     > Notion 是由 Notion Labs Inc 开发的一款应用程序, 用于知识库搭建.
     >
+- **[NOT RECOMMENDED→](https://www.notion.so/NOT-RECOMMENDED-7ba2dd5ce9654e788d5e342051a437ba?pvs=21) 英文语境使用直引号（`"`、`'`）。**
+
+    直引号是历史遗留产物，只有代码环境或者一些需要简化排版的场合才会使用。
+
+    > ✔️正向示例
+    >
+    >
+    > She said, “I’m 18 years old.”
+    >
+
+    > ❌反向示例
+    >
+    >
+    > She said, "I'm 18 years old."
+    >
 - **[MUST NOT→](https://www.notion.so/MUST-NOT-aaca767970be48c09c766ef1e7be6a56?pvs=21)  中文引用使用竖版引号（`「」`）。**
 
     > ✔️正向示例
